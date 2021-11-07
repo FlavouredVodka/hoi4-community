@@ -118,7 +118,7 @@
 ## Air Unit Rules  
 1. Any Heavy Bomber technology above 1936 is banned except;
 1. You may deploy a single Strategic Bomber newer than 1936 for use with nukes.
-1. Use of the "Kamikaze" strike mission is banned.
+1. You can only use Kamikaze strike from starting japanese cores.
 
 ## Support Rules
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
